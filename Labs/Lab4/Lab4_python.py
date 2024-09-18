@@ -2,7 +2,7 @@
 # creat a gdb and garage
 import arcpy
 
-arcpy.env.workspace = r'C:\Users\mschwartz95\DevSource\Schwartz_GEOG676\Labs\Lab4'
+arcpy.env.workspace = r'C:\Users\mschwartz95\DevSource\Schwartz_GEOG676\Labs\Lab4\codes.env'
 folder_path = r'C:\Users\mschwartz95\DevSource\Schwartz_GEOG676\Labs\Lab4'
 gdb_name = 'Test.gdb'
 gdb_path = folder_path + '\\' + gdb_name
