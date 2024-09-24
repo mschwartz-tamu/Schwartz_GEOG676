@@ -2,13 +2,13 @@
 # creat a gdb and garage
 import arcpy
 
-arcpy.env.workspace = r'C:C:\Users\mschwartz95\DevSource\Schwartz_GEOG676\Labs\Lab4'
+arcpy.env.workspace = r'C:\Users\mschwartz95\DevSource\Schwartz_GEOG676\Labs\Lab4'
 folder_path = r'C:\Users\mschwartz95\DevSource\Schwartz_GEOG676\Labs\Lab4'
 gdb_name = 'Test.gdb'
 gdb_path = folder_path + '\\' + gdb_name
 arcpy.CreateFileGDB_management(folder_path, gdb_name)
 
-csv_path = r'C:\Users\mschwartz95\DevSource\2024-TAMU-GEOG-676-GIS-Programming-MGsc-1\data\homework\04\garages.csv'
+csv_path = r'C:\Users\mschwartz95\DevSource\2024-TAMU-GEOG-676-GIS-Programming-MGsc\data\homework\04\garages.csv'
 garage_layer_name = 'Garage_Points'
 garages = arcpy.MakeXYEventLayer_management(csv_path, 'X', 'Y', garage_layer_name)
 
@@ -17,7 +17,7 @@ arcpy.FeatureClassToGeodatabase_conversion(input_layer, gdb_path)
 garage_points = gdb_path + '\\' + garage_layer_name
 
 # open campus gdb, copy feature to our gdb
-campus = r'C:\Users\mschwartz95\DevSource\2024-TAMU-GEOG-676-GIS-Programming-MGsc-1\data\homework\04\Campus.gdb'
+campus = r'C:\Users\mschwartz95\DevSource\2024-TAMU-GEOG-676-GIS-Programming-MGsc\data\homework\04\Campus.gdb'
 buildings_campus = campus + '\Structures'
 buildings = gdb_path + '\\' + 'Buildings'
 
