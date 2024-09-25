@@ -27,42 +27,42 @@ class GarageBuildingIntersection(object):
         param0 = arcpy.Parameter(
             displayName="GDB Folder",
             name="GDBFolder",
-            dataType="DEFolder",
+            datatype="DEFolder",
             parameterType="Required",
             direction="Input"
         )
         param1 = arcpy.Parameter(
             displayName="GDB Name",
             name="GDBName",
-            dataType="GPString",
+            datatype="GPString",
             parameterType="Required",
             direction="Input"
         )
         param2 = arcpy.Parameter(
             displayName="Garage CSV File",
             name="GarageCSVFile",
-            dataType="DEFile",
+            datatype="DEFile",
             parameterType="Required",
             direction="Input"
         )
         param3 = arcpy.Parameter(
             displayName="Garage Layer Name",
             name="GarageLayerName",
-            dataType="GPString",
+            datatype="GPString",
             parameterType="Required",
             direction="Input"
         )
         param4 = arcpy.Parameter(
             displayName="Campus GDB",
             name="CampusGDB",
-            dataType="DEType",
+            datatype="DEType",
             parameterType="Required",
             direction="Input"
         )
         param5 = arcpy.Parameter(
             displayName="Buffer Distance",
             name="BufferDistance",
-            dataType="DEFolder",
+            datatype="DEFolder",
             parameterType="Required",
             direction="Input"
         )
