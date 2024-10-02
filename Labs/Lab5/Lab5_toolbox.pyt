@@ -62,7 +62,7 @@ class GarageBuildingIntersection(object):
         param5 = arcpy.Parameter(
             displayName="Buffer Distance",
             name="BufferDistance",
-            datatype="DEFolder",
+            datatype="GPDouble",
             parameterType="Required",
             direction="Input"
         )
@@ -111,6 +111,7 @@ class GarageBuildingIntersection(object):
         arcpy.Project_management(garage_points, gdb_path + '\Garage_Points_reprojected', spatial_ref)
 
         # buffer the garages
+        buffer_distance = int(parameters[5].value)
         garageBuffered = arcpy.Buffer_analysis(gdb_path + '\Garage_Points_reprojected', gdb_path + '\Garage_Points_Buffered', 150)
 
         # Intersect our buffer with the buildings
