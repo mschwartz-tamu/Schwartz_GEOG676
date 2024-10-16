@@ -1,5 +1,5 @@
 
-# creat a gdb and garage
+# create a gdb and garage
 import arcpy
 
 arcpy.env.workspace = r'C:\Users\mschwartz95\DevSource\Schwartz_GEOG676\Labs\Lab4'
