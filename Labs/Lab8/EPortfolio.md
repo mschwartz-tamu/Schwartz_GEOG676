@@ -24,7 +24,7 @@
 **Ariel Images:**
   > Ariel Images will be used to...
 
-# **Project Discussion*
+# **Project Discussion**
 **Return on Investment:**
   > Investment in this project...
 **User Interface:**
