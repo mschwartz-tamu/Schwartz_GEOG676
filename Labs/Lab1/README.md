@@ -1,4 +1,5 @@
 **Miranda Schwartz**
+**GEOG 676**
 
 Lab 1: [Creating a Repository](https://github.com/mschwartz-tamu/Schwartz_GEOG676/tree/main/Labs/Lab1)
 
