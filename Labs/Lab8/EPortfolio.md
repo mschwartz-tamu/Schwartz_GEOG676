@@ -7,29 +7,29 @@
 
 
 # **Data Incorporation**
-[**Software Development:**](https://github.com/user-attachments/assets/e6cecbbc-32d6-4d91-99e1-af08ac8f44cb)
+[**Software Development:**](https://github.com/mschwartz-tamu/Schwartz_GEOG676/tree/main/Labs/Lab1)
   > The program that will be used to...
 
-**Data Sets**
+[**Data Sets:**](https://github.com/mschwartz-tamu/Schwartz_GEOG676/tree/main/Labs/Lab3)
   > Data was collected from...
 
-**Inverse Coordinates:**
+[**Inverse Coordinates:**](https://github.com/mschwartz-tamu/Schwartz_GEOG676/tree/main/Labs/Lab2)
   > Coordinates for this data...
 
-**Master Well Geodatabase:**
+[**Master Well Geodatabase:**](https://github.com/mschwartz-tamu/Schwartz_GEOG676/tree/main/Labs/Lab4)
   > 1. Imports all data opinions of well location
   > 2. Inverses between all the data and write to Master Well Location trending position
   > 3. Build a check that determines if the coordinate was NAD83 vs. NAD 27
   > 4. Build a tool that allows users to select the Master Well Location from different aerial images.
   > 5. Determine
 
-**Building a Buffer:**
+[**Building a Buffer:**](https://github.com/mschwartz-tamu/Schwartz_GEOG676/tree/main/Labs/Lab5)
   > A buffer will be built to determine...
 
-**Graduated Colors:**
+[**Graduated Colors:**](https://github.com/mschwartz-tamu/Schwartz_GEOG676/tree/main/Labs/Lab6)
   > Graduated colors can be used...
 
-**Ariel Images:**
+[**Ariel Images:**](https://github.com/mschwartz-tamu/Schwartz_GEOG676/tree/main/Labs/Lab7)
   > Ariel Images will be used to...
 
 
