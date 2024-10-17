@@ -3,7 +3,7 @@
 
 
 # **Data Incorporation**
-  >In the table below, you will find a description of each aspect needed to make this project successful. To access the code for each section, simply click on the corresponding icon.
+  >In the table below, you will find a description of each aspect needed to make this project successful. To access the example code for each section, simply click on the corresponding icon.
 
 |**Software Development**|**Data Sets**|**Inverse Coordinates**|**Master Geodatabase**|
 |   :---:   |   :---:   |   :---:   |   :---:   |
