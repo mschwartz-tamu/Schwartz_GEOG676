@@ -2,7 +2,7 @@
   > The goal of this project is to combine data sets from numerous companies such as Drilling Info, IHS, State and Local Governments, EPA, and COMPASS to produce a uniformed map of well locations. In order to acomplish this, we will use Arcpy, a form of Python script that works between ArcGIS Pro and Visual Source Code to incorporate and establish uniform parameters, allowing us to produce a well location map that can be used across all companies. 
 
 
-# **Project Discussion**
+# **Discussion**
 **Return on Investment:**
   > Investment in this project will be seen shortly after implementation and has a guaranteed rate of 90% return on investment. By combining all data sets retrieved from the numerous companiesn, we will minimize time spent on data configuration across the board for future data collection and projections.
 
