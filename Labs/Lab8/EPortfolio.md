@@ -10,7 +10,7 @@
 |**Software Development**|**Data Sets**|**Inverse Coordinates**|**Master Geodatabase**|
 |   :---:   |   :---:   |   :---:   |   :---:   |
 |The program that will be used to...| Data was collected from...|Coordinates for this data...|All data points for well locations will be stored here.|
-|[![image](https://github.com/user-attachments/assets/ccb6fab8-fa14-4b87-995b-9346a84418e9)](https://github.com/mschwartz-tamu/Schwartz_GEOG676/tree/main/Labs/Lab1)|![image](https://github.com/user-attachments/assets/e1300240-d4ba-4fcb-8ed7-9a864bd0bd16)](https://github.com/mschwartz-tamu/Schwartz_GEOG676/tree/main/Labs/Lab3)| ![image](https://github.com/user-attachments/assets/c5de293a-5abc-4b27-9441-b4cd280a5778)](https://github.com/mschwartz-tamu/Schwartz_GEOG676/tree/main/Labs/Lab2)|![image](https://github.com/user-attachments/assets/3c027c15-22c5-4504-8bd3-a351ec94e665)](https://github.com/mschwartz-tamu/Schwartz_GEOG676/tree/main/Labs/Lab4)|
+|[![image](https://github.com/user-attachments/assets/ccb6fab8-fa14-4b87-995b-9346a84418e9)](https://github.com/mschwartz-tamu/Schwartz_GEOG676/tree/main/Labs/Lab1)|[![image](https://github.com/user-attachments/assets/e1300240-d4ba-4fcb-8ed7-9a864bd0bd16)](https://github.com/mschwartz-tamu/Schwartz_GEOG676/tree/main/Labs/Lab3)|[![image](https://github.com/user-attachments/assets/c5de293a-5abc-4b27-9441-b4cd280a5778)](https://github.com/mschwartz-tamu/Schwartz_GEOG676/tree/main/Labs/Lab2)|[![image](https://github.com/user-attachments/assets/3c027c15-22c5-4504-8bd3-a351ec94e665)](https://github.com/mschwartz-tamu/Schwartz_GEOG676/tree/main/Labs/Lab4)|
 
 
 
